@@ -1,5 +1,5 @@
 # AI TrendScout
- ### Check out the webpage [here](https://ai-trend-scout.venkateshraju.me/)
+ ### Check out the webpage [here](https://ai-trend-scout.vercel.app/)
  
 **AI TrendScout** automatically tracks the latest trending topics from across the web including **GitHub**, **Hacker News**, **YouTube**, and **Dev.to**  and displays them in one beautiful, easy-to-digest dashboard.
 
@@ -52,7 +52,7 @@ Whether you're a developer, tech enthusiast, or startup founder, AI TrendScout k
 
 1. Clone this repository
 ```bash
-git clone https://github.com/venkateshraju04/ai-trend-scout.git
+git clone https://github.com/vr-tejas/ai-trend-scout.git
 cd ai-trend-scout
 cd frontend
 ```
